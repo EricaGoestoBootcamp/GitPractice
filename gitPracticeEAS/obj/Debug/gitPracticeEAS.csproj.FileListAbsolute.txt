@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeEAS\gitPracticeEAS\bin\Debug\gitPracticeEAS.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeEAS\gitPracticeEAS\obj\Debug\gitPracticeEAS.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeEAS\gitPracticeEAS\bin\Debug\gitPracticeEAS.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeEAS\gitPracticeEAS\bin\Debug\gitPracticeEAS.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeEAS\gitPracticeEAS\obj\Debug\gitPracticeEAS.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeEAS\gitPracticeEAS\obj\Debug\gitPracticeEAS.pdb
